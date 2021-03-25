@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/conversor_float_binario.dir/main.cpp.o CMakeFiles/conversor_float_binario.dir/Converte.cpp.o  -o conversor_float_binario 

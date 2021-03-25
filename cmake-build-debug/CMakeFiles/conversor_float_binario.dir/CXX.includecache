@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/media/jose/09BBDA931A86D9AA/paradas_de_algoritmo/Assembly/codigos/cpp/conversor_float_binario/Converte.cpp
+Converte.h
+/media/jose/09BBDA931A86D9AA/paradas_de_algoritmo/Assembly/codigos/cpp/conversor_float_binario/Converte.h
+
+/media/jose/09BBDA931A86D9AA/paradas_de_algoritmo/Assembly/codigos/cpp/conversor_float_binario/Converte.h
+iostream
+-
+math.h
+-
+
+/media/jose/09BBDA931A86D9AA/paradas_de_algoritmo/Assembly/codigos/cpp/conversor_float_binario/main.cpp
+Converte.h
+/media/jose/09BBDA931A86D9AA/paradas_de_algoritmo/Assembly/codigos/cpp/conversor_float_binario/Converte.h
+
